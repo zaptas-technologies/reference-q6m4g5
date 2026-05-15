@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaptas-technologies.github.io/reference-q6m4g5/sitemap.xml
